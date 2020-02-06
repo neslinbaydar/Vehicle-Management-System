@@ -1,0 +1,2 @@
+ID: 20000   Marka: dahon   Yakıt Türü: diesel   Araç Hızı: 20   Yolcu Sayısı: 2   Tekerlek Sayısı: 2   Fiyat: 200   Üretim Yılı: 2017   Araç Rengi: mavi
+ID: 10000   Marka: mercedez   Yakıt Türü: diesel   Araç Hızı: 200   Yolcu Sayısı: 5   Tekerlek Sayısı: 4   Fiyat: 25000   Üretim Yılı: 2015   Araç Rengi: ye�il
